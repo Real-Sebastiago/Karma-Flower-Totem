@@ -1,6 +1,10 @@
 {
 	"pack": {
 		"description": "Makes the totem be a karma flower from hit game Rain World (2017)",
-		"min_format": 48
+		"supported_formats": [48, 64],
+        "min_format": 48,
+        "max_format": 75,
+		"pack_format": 75
 	}
+
 }
